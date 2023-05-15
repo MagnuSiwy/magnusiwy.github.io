@@ -3765,20 +3765,21 @@ input, select, textarea {
 		}
 
 
-.project{
+.project {
 	margin: 2%; 
 	font-size: 5em;
 	text-decoration: none;
+	border-bottom: none;
 }
 
-.project.ship{
+.project.ship {
 	color: #9ddaf9;
 }
 
-.project.robot{
+.project.robot {
 	color: #96fca1;
 }
 
-.project.warehouse{
+.project.warehouse {
 	color: #8c8c8c;
 }
