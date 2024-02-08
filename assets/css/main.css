@@ -3783,3 +3783,16 @@ input, select, textarea {
 .project.warehouse {
 	color: #8c8c8c;
 }
+
+.project.dotfiles {
+	color: #FDF082;
+}
+
+.project.angular {
+	color: #FF7272;
+}
+
+#redditLink {
+	border-bottom: None;
+	color: #6CB8F3;
+}
